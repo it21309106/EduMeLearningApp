@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906309180933",
+    "project_id": "questions-1ab99",
+    "storage_bucket": "questions-1ab99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906309180933:android:71561860a592d4a5e9466c",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906309180933-861gathp7q4bn41dmqcm5qh4ff69fjs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ah6Az96ccSezuFpsyei4eBFG_BwnGi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906309180933-861gathp7q4bn41dmqcm5qh4ff69fjs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
